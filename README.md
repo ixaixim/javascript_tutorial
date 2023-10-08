@@ -1,94 +1,148 @@
+# JavaScript and Web Development Course
 
-JavaScript and Web Development Course
 This course is designed to take you through the fundamentals of JavaScript and web development. Whether you're a beginner or have some experience, this course will provide you with the knowledge you need to build web applications.
-Credit: This course outline is based on the content from the YouTube video titled "[JavaScript and Web Development Course](https://www.youtube.com/watch?v=EfAl9bwzVZk&ab_channel=DaveGray)
-" by DaveGray.
 
+Credit: This course outline is based on the content from the YouTube video titled "[JavaScript and Web Development Course](https://www.youtube.com/watch?v=EfAl9bwzVZk&ab_channel=DaveGray)" by DaveGray.
 
+## Table of Contents
 
+1. [Quick Start](#quick-start)
+2. [Link JavaScript to HTML](#link-javascript-to-html)
+3. [Strings](#strings)
+4. [Numbers](#numbers)
+5. [Math Methods](#math-methods)
+6. [Code Challenge](#code-challenge)
+7. [If Statements](#if-statements)
+8. [Switch Statements](#switch-statements)
+9. [Ternary Operators](#ternary-operators)
+10. [User Input](#user-input)
+11. [Your First Game](#your-first-game)
+12. [Loops](#loops)
+13. [Functions](#functions)
+14. [Scope - var, let, const](#scope---var-let-const)
+15. [Arrays](#arrays)
+16. [Refactor the Game with Arrays](#refactor-the-game-with-arrays)
+17. [Objects](#objects)
+18. [Classes](#classes)
+19. [JSON](#json)
+20. [Handling Errors](#handling-errors)
+21. [Document Object Model (DOM)](#document-object-model-dom)
+22. [Event Listeners](#event-listeners)
+23. [Web Storage API](#web-storage-api)
+24. [Modules](#modules)
+25. [Higher Order Functions](#higher-order-functions)
+26. [Promises / Fetch / Async & Await](#promises--fetch--async--await)
+27. [Regular Expressions](#regular-expressions)
+28. [Applying RegEx in JavaScript](#applying-regex-in-javascript)
 
-Table of Contents
-Quick Start
-Link JavaScript to HTML
-Strings
-Numbers
-Math Methods
-Code Challenge
-If Statements
-Switch Statements
-Ternary Operators
-User Input
-Your First Game
-Loops
-Functions
-Scope - var, let, const
-Arrays
-Refactor the Game with Arrays
-Objects
-Classes
-JSON
-Handling Errors
-Document Object Model (DOM)
-Event Listeners
-Web Storage API
-Modules
-Higher Order Functions
-Promises / Fetch / Async & Await
-Regular Expressions
-Applying RegEx in JavaScript
-1. Quick Start
+## Quick Start
+
 Description: Get started with setting up your development environment.
-2. Link JavaScript to HTML
+
+## Link JavaScript to HTML
+
 Description: Learn how to link your JavaScript files to your HTML pages.
-3. Strings
+
+## Strings
+
 Description: Understand strings and how to manipulate them.
-4. Numbers
+
+## Numbers
+
 Description: Dive into numbers and their operations.
-5. Math Methods
+
+## Math Methods
+
 Description: Explore various Math methods available in JavaScript.
-6. Code Challenge
+
+## Code Challenge
+
 Description: Test your skills with a coding challenge.
-7. If Statements
+
+## If Statements
+
 Description: Learn about conditional statements and how to use them.
-8. Switch Statements
+
+## Switch Statements
+
 Description: Understand switch statements and their use-cases.
-9. Ternary Operators
+
+## Ternary Operators
+
 Description: Get to know the shorthand for conditional statements.
-10. User Input
+
+## User Input
+
 Description: Learn how to capture and handle user input.
-11. Your First Game
+
+## Your First Game
+
 Description: Build your first simple game using JavaScript.
-12. Loops
+
+## Loops
+
 Description: Understand loops and how to control the flow of your program.
-13. Functions
+
+## Functions
+
 Description: Dive into functions and understand their importance.
-14. Scope - var, let, const
+
+## Scope - var, let, const
+
 Description: Learn about variable scope and the difference between var, let, and const.
-15. Arrays
+
+## Arrays
+
 Description: Understand arrays and how to manipulate them.
-16. Refactor the Game with Arrays
+
+## Refactor the Game with Arrays
+
 Description: Improve your game by incorporating arrays.
-17. Objects
+
+## Objects
+
 Description: Learn about objects and how they can structure your data.
-18. Classes
+
+## Classes
+
 Description: Understand classes and object-oriented programming.
-19. JSON
+
+## JSON
+
 Description: Learn about JSON and how to work with APIs.
-20. Handling Errors
+
+## Handling Errors
+
 Description: Understand error handling and debugging techniques.
-21. Document Object Model (DOM)
+
+## Document Object Model (DOM)
+
 Description: Learn about the DOM and how to manipulate it.
-22. Event Listeners
+
+## Event Listeners
+
 Description: Understand event listeners and how to capture user interactions.
-23. Web Storage API
+
+## Web Storage API
+
 Description: Learn about web storage and how to persist data.
-24. Modules
+
+## Modules
+
 Description: Understand modules and how to organize your code.
-25. Higher Order Functions
+
+## Higher Order Functions
+
 Description: Dive into higher-order functions and functional programming.
-26. Promises / Fetch / Async & Await
+
+## Promises / Fetch / Async & Await
+
 Description: Learn about asynchronous programming and how to handle it.
-27. Regular Expressions
+
+## Regular Expressions
+
 Description: Understand regular expressions and their applications.
-28. Applying RegEx in JavaScript
+
+## Applying RegEx in JavaScript
+
 Description: Learn how to apply regular expressions in your JavaScript code.
