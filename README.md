@@ -2,6 +2,7 @@
 
 This course is designed to take you through the fundamentals of JavaScript and web development. Whether you're a beginner or have some experience, this course will provide you with the knowledge you need to build web applications.
 
+![JS Logo](img/js_logo.png)
 Credit: This course outline is based on the content from the YouTube video titled "[JavaScript and Web Development Course](https://www.youtube.com/watch?v=EfAl9bwzVZk&ab_channel=DaveGray)" by DaveGray.
 
 ## Table of Contents
